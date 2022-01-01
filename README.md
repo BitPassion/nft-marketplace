@@ -1,4 +1,4 @@
-# Open Source Nft Marketplace [Onprogress]
+# Open Source Nft Marketplace [Onprogress %1]
 Reactjs And Smart Contracts Open Source Basic Nft Marketplace App
 ## Screenshoots 
 
@@ -17,10 +17,16 @@ Reactjs And Smart Contracts Open Source Basic Nft Marketplace App
 ## Todo
 
 - [ ] Search Filters
-- [ ] Connect Wallet (ETH Wallets)
+- [x] Connect Wallet (ETH Wallets)
 - [ ] Smartcontract Backend
 - [ ] Community Page
 - [ ] Explore Page Tabs
+- [ ] Login / Logout
+- [ ] Create Page
+- [ ] Users Pages
+- [ ] Collections
+
+**Alpha Release Date 30 January 2022**
 
 
 # Getting Started with Create React App
