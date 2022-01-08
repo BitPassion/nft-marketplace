@@ -1,10 +1,10 @@
 import React from "react";
-import '../../styles/base/TextInput.css';
+import '../../styles/base/Input.css';
 
 //Base Input Component
 //Usage: <Input width='550px' height='30px' />
 
-const TextInput = ({width,height, placeholder='default input', icon }) => {
+const Input = ({width,height, placeholder='default input', icon }) => {
   return (
     <div className="search-wrapper">
       <div
@@ -20,11 +20,11 @@ const TextInput = ({width,height, placeholder='default input', icon }) => {
                 )`,
         }}
       >
-        <input id="search" placeholder={placeholder} type='text'/>
+        <input id="search" placeholder={placeholder} />
         {icon}
       </div>
     </div>
   );
 };
 
-export default TextInput;
+export default Input;

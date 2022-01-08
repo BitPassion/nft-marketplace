@@ -18,11 +18,9 @@
     text-align: center;
     object-fit: cover;
     cursor: pointer;
-    transition: width 1s ease-in-out, height .5s ease-in-out !important;
-    
+    transition: width 1s ease-in-out;
   }
 
   .card:focus{
       outline: none;
   }
-
