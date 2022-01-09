@@ -27,10 +27,9 @@ I aim to create an open and safe nft marketplace for everyone. This will be a ch
 ## 🎉 Roadmap
 
 **Alpha Release Date 30 January 2022**
- - [ ] Base Components (7/9) (https://github.com/yessGlory17/nft-marketplace/issues/10)
  - [ ] Search Filters
  - [x] Connect Wallet (ETH Wallets)
- - [ ] NFT Detail Page (Date: 09 January 2022)
+ - [ ] NFT Detail Page
  - [ ] Smartcontract Backend
  - [ ] Community Page
  - [ ] Explore Page Tabs
