@@ -1,12 +1,8 @@
 # Open Source Nft Marketplace [Onprogress %10]
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Reactjs And Smart Contracts Open Source Basic Nft Marketplace App
-
-> ## ⭐ Support Us
-> If you like our project, do not forget to give stars. So we can get more attention and get more support from the community. Don't underestimate one star, one  star you give will convince others to give the project another star.
-
 
 ## 💪 Motivation
 
@@ -30,20 +26,18 @@ I aim to create an open and safe nft marketplace for everyone. This will be a ch
 
 ## 🎉 Roadmap
 
-**Alpha Release Date 28 February 2022**
- - [x] Base Components (9/9) (Base components of the project )
+**Alpha Release Date 30 January 2022**
+ - [x] Base Components (9/9)
  - [ ] Search Filters
- - [x] Connect Wallet (ETH Wallets)(Supports Other Wallets 🚀)
- - [ ] NFT Detail Page (Date: 09 February 2022)
- - [ ] Smartcontract Backend (Truffle)
+ - [x] Connect Wallet (ETH Wallets)
+ - [ ] NFT Detail Page (Date: 09 January 2022)
+ - [ ] Smartcontract Backend
  - [ ] Community Page
+ - [ ] Explore Page Tabs
  - [x] Login
  - [ ] Create Page
  - [ ] Users Pages
  - [ ] Collections
- - [ ] Connect Wallet Popup
- - [ ] Supported Mobile Devices
- - [ ] AR supports for 3d NFTs
 
 ## 🔮 Usage
 In the project directory, you can run:
@@ -71,8 +65,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/GehadSalemFekry"><img src="https://avatars.githubusercontent.com/u/57755639?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gehad Salem Fekry</b></sub></a><br /><a href="#content-GehadSalemFekry" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/digambar-t7"><img src="https://avatars.githubusercontent.com/u/92970968?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Digambar Tupurwadi</b></sub></a><br /><a href="https://github.com/yessGlory17/nft-marketplace/issues?q=author%3Adigambar-t7" title="Bug reports">🐛</a></td>
-    <td align="center"><a href="https://github.com/burakkaraceylan"><img src="https://avatars.githubusercontent.com/u/84451726?v=4?s=100" width="100px;" alt=""/><br /><sub><b>burakkaraceylan</b></sub></a><br /><a href="https://github.com/yessGlory17/nft-marketplace/commits?author=burakkaraceylan" title="Code">💻</a></td>
-    <td align="center"><a href="https://bandism.net/"><img src="https://avatars.githubusercontent.com/u/22633385?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ikko Ashimine</b></sub></a><br /><a href="#content-eltociear" title="Content">🖋</a></td>
   </tr>
 </table>
 
